@@ -1,0 +1,17 @@
+pandas
+numpy
+pypdf
+python-docx
+python-pptx
+pillow
+pytesseract
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+chromadb
+jupyter
+ipykernel
+tqdm
+google-generativeai
+python-dotenv
